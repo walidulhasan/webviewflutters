@@ -34,7 +34,7 @@ class _WebViewAppState extends State<WebViewApp> {
         },
         child: SafeArea(
           child: WebView(
-            initialUrl: 'http://rotary.safeerp.xyz/index.aspx',
+            initialUrl: 'http://www.xmart-bd.com/',
             onPageStarted: (url) {
               setState(() {
                 loadingPercentage = 0;
